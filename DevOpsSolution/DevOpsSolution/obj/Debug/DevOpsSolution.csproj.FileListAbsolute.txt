@@ -1,0 +1,12 @@
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.exe.config
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.exe
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.pdb
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.csprojResolveAssemblyReference.cache
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.exe
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.pdb
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.exe.config
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.exe
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\bin\Debug\DevOpsSolution.pdb
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.csprojResolveAssemblyReference.cache
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.exe
+C:\Users\arpitjain\Documents\Visual Studio 2017\Projects\gitt\DevOpsSolution\DevOpsSolution\obj\Debug\DevOpsSolution.pdb
